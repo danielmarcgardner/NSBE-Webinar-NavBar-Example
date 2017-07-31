@@ -1,6 +1,7 @@
 body {
   margin: 0;
   padding: 0;
+  background-color: SkyBlue;
 }
 
 #navbar {
@@ -20,7 +21,7 @@ body {
 }
 
 #navbar > div:first-child {
-  margin-left: 20px;
+  margin-left: 5%;
   font-family: Raleway;
 }
 

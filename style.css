@@ -1,7 +1,6 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: SkyBlue;
 }
 
 #navbar {
@@ -29,4 +28,9 @@ a {
   font-family: Roboto;
   text-decoration: none;
   color: #ea882c;
+}
+
+a:hover {
+  color: red;
+  cursor: alias;
 }
